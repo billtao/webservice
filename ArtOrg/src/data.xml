@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+	<!-- 用户名 -->
+	<username>fys</username>
+	<!-- 密码 -->
+	<password>fys07</password>
+	<!-- 业务类型编码 -->
+	<servicetype>1</servicetype>
+	<sendtime>2016-12-26 12:16:31</sendtime>
+	<!-- 信用记录编码 -->
+	<biztype>0115000000</biztype>
+	<orgcode>0000000007</orgcode>
+	<count>1</count>
+	<orglist>
+		<orginfo>
+			<!-- 行数据唯一标识 -->
+			<id type="string" length="40">1</id>
+			<institution_name type="string" length="200">007北京协和医院1</institution_name>
+			<area_code type="string" length="50">110106</area_code>
+			<area type="string" length="50">北京市</area>
+			<ocode type="string" length="10">000016110</ocode>
+			<corporate type="string" length="50">1乔杰1</corporate>
+			<corporate_regnumber type="string" length="50">005904110108150111</corporate_regnumber>
+			<tech_type type="string" length="200">供精人工授精</tech_type>
+			<health_license type="string" length="80">40135910212010111A1001</health_license>
+			<approve_date type="string" length="200">2013-10-31</approve_date>
+			<run_status type="string" length="200">正式运行 </run_status>
+			<charge_in_person type="string" length="50">赵邦荣</charge_in_person>
+		</orginfo>
+	</orglist>
+</record>
